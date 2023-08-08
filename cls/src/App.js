@@ -1,8 +1,14 @@
-import User from "./Input";
+// import User from "./Input";
+
+import Candidate from "./Array";
+import Candidates from "./ArrayOfObject";
+
 
 function App() {
   return (
-   <User />
+  //  <User />
+    // <Candidate />
+    <Candidate />
   );
 }
 
